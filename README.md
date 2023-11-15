@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Luis, welcome to my cave 🧑‍💻</h1>
-<h4 align="center">A full stack developer and also a Computer Science student from UTEC, Lima, Perú. see my <a href="https://www.google.com" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi, I'm Luis, welcome to my cave 🧑‍💻</h1>
+<h4 align="center">A full stack developer and also a Computer Science student from PE. See my <a href="https://www.google.com" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: Online teaching in Object-oriented programming, Data Structures and Algorithms
 - 👨‍💻 I’m looking to collaborate on: virtual reality projects
-- 🕹️ I want to become a pro at: Video game developer
+- 🕹️ I want to become a pro at: Software developer
 - 🤝 What I enjoy: thinking about the most efficient solution
 
 <!--h1 without bottom border-->
