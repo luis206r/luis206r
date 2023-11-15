@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Luis, welcome to my cave 🧑‍💻</h1>
-<h4 align="center">a full stack developer and also a Computer Science student from UTEC, Lima, Perú. see my <a href="https://www.google.com" target="_blank">resume</a> for more</h4>
+<h4 align="center">A full stack developer and also a Computer Science student from UTEC, Lima, Perú. see my <a href="https://www.google.com" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -9,6 +9,42 @@
 </div>
 
 -----
+
+
+
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+- 📄 Know about my experiences: Online teaching in Object-oriented programming, Data Structures and Algorithms
+- 👨‍💻 I’m looking to collaborate on: virtual reality projects
+- 🕹️ I want to become a pro at: Video game developer
+- 🤝 What I enjoy: thinking about the most efficient solution
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,github,html,js,linux,md,materialui,mysql,nextjs,psql,nodejs,postman,py,react,redux,vscode&perline=14" />
+  </a>
+</p>
+
+
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -24,7 +60,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="www.instagram.com/luis206r/" target="blank"><img align="center"
+      <a href="https://www.instagram.com/luis206r/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
