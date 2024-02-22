@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Luis, welcome to my cave 🧑‍💻</h1>
-<h4 align="center">A full stack developer and also a Computer Science student from PE. See my <a href="https://www.google.com" target="_blank">resume</a> for more</h4>
+<h4 align="center">A full stack developer and also a Computer Science student from PE. See my <a href="https://luis206r.github.io/portfolio/" target="_blank">portfolio</a> for more</h4>
 </div>
 
 <div align="center">
